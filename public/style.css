@@ -1,0 +1,19 @@
+h1{
+    color:#402905;
+}
+.post{
+    background-color: 	#ead0a8;
+}
+.user{
+    font-style: italic;
+    color: #402905;
+}
+
+a{
+    color: #ff1100;
+}
+button{
+    background-color:  #402905;
+    color: #ead0a8;
+    border:#ead0a8 3px solid;
+}
